@@ -1,0 +1,10 @@
+*.csv
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+.env*
+/.venv/
+/runtime/
+/test/
+/tests/
